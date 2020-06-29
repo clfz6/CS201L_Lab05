@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\c++\CS201L\CS201L_Lab05\Lab05\Lab05\Source.cpp(20,21): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\c++\CS201L\CS201L_Lab05\Lab05\Lab05\Source.cpp(26,16): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\c++\CS201L\CS201L_Lab05\Lab05\Lab05\Source.cpp(27,7): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  Lab05.vcxproj -> C:\c++\CS201L\CS201L_Lab05\Lab05\Debug\Lab05.exe
